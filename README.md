@@ -11,7 +11,7 @@ This Project is being undertaken by **@countingblunders** as a part of EQ-Hacks 
 I have drawn the inspiration for this project from people I have seen who are often held back by the chains of financial liabilities which limit their true potential.
 
 ## How I built it
-Mainly Tailwind has been used for the creation of Gyaan Kendra Platform.
+Mainly Tailwind and Tailblocks have been used for the creation of Gyaan Kendra Platform.
 
 ## Challenges I ran into
 The main challenge I faced was the short duration in which I had to create the project within the limited time period which for me was around 1 week  since I had been busy. That was the reason I decided to use a framwork like Tailwind to create the project within the limited timeframe.
