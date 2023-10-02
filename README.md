@@ -19,5 +19,7 @@ The main challenge I faced was the short duration in which I had to create the p
 ## What I learned
 Throughout the building of this site, I learnt to deal with various challenges which helped me to develop my creativity and coding skills.
 
-## What's next for Untitled
-I am eager to utilise the lessons learnt from this project in my future projects. I yearn for constant improvement in the future as well.
+## What's next for Gyaan Kendra
+I am eager to utilise the lessons learnt during the creation of this project in the future updates of Gyaan Kendra. I yearn for constant improvement in the future as well.
+
+We'll most probably be adding notes of class 9th and class 10th CBSE to help the students revise their lessons quickly.
