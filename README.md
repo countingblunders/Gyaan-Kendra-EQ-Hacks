@@ -14,7 +14,7 @@ I have drawn the inspiration for this project from people I have seen who are of
 Mainly Tailwind and Tailblocks have been used for the creation of Gyaan Kendra Platform.
 
 ## Challenges I ran into
-The main challenge I faced was the short duration in which I had to create the project within the limited time period which for me was around 1 week  since I had been busy. That was the reason I decided to use a framwork like Tailwind to create the project within the limited timeframe.
+The main challenge I faced was the short duration in which I had to create the project which for me was around 1 week  since I had been busy. That was the reason I decided to use a framwork like Tailwind to create the project within the limited timeframe.
 
 ## What I learned
 Throughout the building of this site, I learnt to deal with various challenges which helped me to develop my creativity and coding skills.
